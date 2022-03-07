@@ -1,5 +1,6 @@
 # bdfd-image-api
 Image generation api for bdfd. I do not own any of these codes. It may or may not work as intended, haven't checked.
+"Doesn't work anymore"
 
 ````````````````````````````````````````````````````````````
 
